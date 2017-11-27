@@ -16,5 +16,3 @@ Server-side:
 		struct ProductNode *queue;		
 		int room_number;
 	};
-
-https://docs.google.com/document/d/1cuLnLDYBdZ-r34ZazVo9fSTkXzPdUOYaSeFyjnAyF7E/edit
